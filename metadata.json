@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:da0e689ac85c51e7401318232691c1173d42bea72cf586e9e8cc5a28c9e40794
-size 345
+{
+  "name": "Sakniya | سكنية — Housing & Roommate Matching",
+  "description": "Cozy bohemian housing discovery, roommate compatibility matching, verified rentals, and interactive commute planner across Egypt with Misbah AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
